@@ -1,6 +1,9 @@
 # description of the file
 In this file, I am going to write plan and execution status along with links.
 
+# Topic wise content - will be updated repeatedly with new info
+## python
+
 
 # plan 
 my plan is to learn computer vision in 3 iterations.
